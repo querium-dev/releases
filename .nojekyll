@@ -1,0 +1,4 @@
+# Presence alone is what GitHub Pages checks; this file only needs to exist.
+# It has content because an empty file is the kind of thing a copy, a zip or
+# a sync quietly drops - and losing it means Jekyll gets to decide how
+# stable/latest.json is served.

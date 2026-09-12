@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Querium releases</title>
+    <!--
+      What someone sees if they open releases.querium.dev by hand. The host
+      exists for two machine-readable things - the update manifest at
+      /stable/latest.json and the installers attached to each tag - so this
+      page only has to say where a person should be instead.
+
+      Colours are written out rather than tokenised: this file lives in the
+      public releases repository, where the design system does not.
+    -->
+    <style>
+      :root {
+        color-scheme: dark;
+      }
+      body {
+        margin: 0;
+        min-height: 100vh;
+        display: grid;
+        place-items: center;
+        background: #13110e;
+        color: #f5f2ec;
+        font: 16px/1.6 ui-sans-serif, system-ui, -apple-system, sans-serif;
+        text-align: center;
+        padding: 2rem;
+        box-sizing: border-box;
+      }
+      main {
+        max-width: 34rem;
+      }
+      h1 {
+        font-size: 1.5rem;
+        font-weight: 600;
+        letter-spacing: -0.02em;
+        margin: 1.5rem 0 0.5rem;
+      }
+      p {
+        color: #a8a094;
+        margin: 0 0 1.5rem;
+      }
+      a.cta {
+        display: inline-block;
+        padding: 0.6rem 1.25rem;
+        border-radius: 999px;
+        background: #00a8aa;
+        color: #13110e;
+        font-weight: 600;
+        text-decoration: none;
+      }
+      a.cta:hover {
+        background: #00c2c4;
+      }
+      code {
+        font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+        font-size: 0.85em;
+        color: #7d7568;
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <svg viewBox="0 0 96 96" width="64" height="64" aria-label="Querium" role="img">
+        <rect width="96" height="96" rx="21" fill="#13110E" />
+        <g
+          transform="translate(-0.9,-0.9)"
+          fill="none"
+          stroke="#00A8AA"
+          stroke-width="10"
+        >
+          <path d="M 58.16 71.93 A 26 26 0 1 1 71.93 58.16" />
+          <path d="M 50.83 50.83 L 76.99 76.99" />
+        </g>
+      </svg>
+
+      <h1>Querium releases</h1>
+      <p>
+        This host serves installers and the update manifest. Downloads,
+        changelog and documentation are on the main site.
+      </p>
+      <p><a class="cta" href="https://querium.dev">Go to querium.dev</a></p>
+      <p><code>/stable/latest.json</code></p>
+    </main>
+  </body>
+</html>
