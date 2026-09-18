@@ -1,15 +1,15 @@
 {
-  "version": "0.3.0",
-  "pub_date": "2026-09-17T02:47:32.893Z",
+  "version": "0.3.1",
+  "pub_date": "2026-09-18T02:57:14.728Z",
   "notes": "",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTTC9IWkVvQjRaS2lnM2JYV0p6RmU3cVhZbTh3S01KQ1psYndDS0daUW1UaTQzM0ZNQ2UwWjRBbUtiUXpNMFFCRVVuUGh6MStMaFN2Z01VYjRTdXJCU1BzMVdOVmJkWmc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NjEyNzA1CWZpbGU6UXVlcml1bV8wLjMuMF9hbWQ2NC5BcHBJbWFnZQpqTnl5eXZnamVLTng5L1dyWllsa1IyUWxXS2U0ZkhsT0cyY1c3Q3lYS3N2U0xnamI4OC9ySEN0MktSbVhldXk0cTVpdUx3azJIRU1kNVVJcksvakhBdz09Cg==",
-      "url": "https://github.com/querium-dev/releases/releases/download/v0.3.0/Querium_0.3.0_amd64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTTC9IWkVvQjRaS3FZMUNPYlZqbmdxQXFZSVRpZll1Z0N5bklCMkVqUzhETGRwOHpZSW1iemxxR3hBRkZVdmJlbTVhKzE0S3VkdDh1NmFkTDRlendzem1iOGVBNk4zRncwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5Njk5NzMwCWZpbGU6UXVlcml1bV8wLjMuMV9hbWQ2NC5BcHBJbWFnZQp5RjhwRzdobnE3RDRXUjlOcHpZT2FHanB3amN0WXc1NXJoczBOWmkwbXkva2VtY1VjWCs1TThQN0c4eEpVNVJtcm5rSE9rMkxBS08xTEo2WTM1bUlEZz09Cg==",
+      "url": "https://github.com/querium-dev/releases/releases/download/v0.3.1/Querium_0.3.1_amd64.AppImage"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTTC9IWkVvQjRaS3NsL21rUkdFWjlEbGtWLzc1V0orZWVSZ21pdW5ZaWtyVTh3eFJrdy9DM1dtejZBK2sya1MwL2svOThVLzRCQXZkK0xtaFkrZlFpczN4UzBNNVM2dkFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NjEzMjE0CWZpbGU6UXVlcml1bV8wLjMuMF94NjQtc2V0dXAuZXhlCnNqT1hiR3pDVzIyV2VsOURoZFFhME5kYWdYOUdjTVN1S0tpRHhZZWNhRVdpRFAxL0x4OEd4R2oyMytGOWxPdEZ4SnhLeC9JN0E3Zzh5ZFdsNzdXN0FnPT0K",
-      "url": "https://github.com/querium-dev/releases/releases/download/v0.3.0/Querium_0.3.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTTC9IWkVvQjRaS2p4OUJvTU1abUxVUGN4VytvTUc0WUtzcTBMYkhURVowRzY4WjE1U28vTEZUMTVKOGdPNFFCYzZrUkROOUYxRXFXMzk4ZVNlU2N1dkV1dDhLZmRZaUFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NzAwMTY1CWZpbGU6UXVlcml1bV8wLjMuMV94NjQtc2V0dXAuZXhlCktCQVliekZUQmtpcDUwM3RZcmQwRjgrN2tZeXVWYk5VY1lyaDNJenBWOXoycEUzUVdaamw4TS9SaXFIVTF0cnlGa1FkbSs1YURoUXN4NnY3RkVQYUNBPT0K",
+      "url": "https://github.com/querium-dev/releases/releases/download/v0.3.1/Querium_0.3.1_x64-setup.exe"
     }
   }
 }
